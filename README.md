@@ -55,6 +55,9 @@ I'm Joshua, I am currently studying games programming @ SAE in Zurich and I have
 </div>
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ratzifutzi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
+# 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ratzifutzi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 📫 How to reach me
 Casual questions E-Mail: joshua@hyper-tech.ch
 Business questions E-Mail: inquiries@hyper-tech.ch
