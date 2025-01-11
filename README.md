@@ -49,11 +49,11 @@ I'm Joshua, I am currently studying games programming @ SAE in Zurich and I have
 ![WireGuard Badge](https://img.shields.io/badge/WireGuard-88171A?logo=wireguard&logoColor=fff&style=for-the-badge)
 
 # 🔢 Some stats
-<div align="center">
-  <img width=400 src='https://github-readme-stats.vercel.app/api?username=Ratzifutzi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=Ratzifutzi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<div align="right">
   <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=Ratzifutzi&theme=vue-dark&hide_border=true' />
-  <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ratzifutzi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 </div>
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ratzifutzi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
 # 📫 How to reach me
 Casual questions E-Mail: joshua@hyper-tech.ch
