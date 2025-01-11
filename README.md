@@ -48,6 +48,11 @@ I'm Joshua, I am currently studying games programming @ SAE in Zurich and I have
 ![RustDesk Badge](https://img.shields.io/badge/RustDesk-024EFF?logo=rustdesk&logoColor=fff&style=for-the-badge)
 ![WireGuard Badge](https://img.shields.io/badge/WireGuard-88171A?logo=wireguard&logoColor=fff&style=for-the-badge)
 
+# 🔢 Some stats
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=Ratzifutzi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=Ratzifutzi&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ratzifutzi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+
 # 📫 How to reach me
 Casual questions E-Mail: joshua@hyper-tech.ch
 Business questions E-Mail: inquiries@hyper-tech.ch
