@@ -50,6 +50,7 @@ I'm Joshua, I am currently studying games programming @ SAE in Zurich and I have
 
 # 🔢 Some stats
 ![](https://komarev.com/ghpvc/?username=Ratzifutzi)
+<br />
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=Ratzifutzi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 <div align="right">
   <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=Ratzifutzi&theme=vue-dark&hide_border=true' />
