@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Ratzifutzi&style=for-the-badge)
+
 ## 👋 Hiya!
 I'm Joshua, I am currently studying games programming @ SAE in Zurich and I have a pretty bad coding addiction!
 
@@ -49,8 +51,6 @@ I'm Joshua, I am currently studying games programming @ SAE in Zurich and I have
 ![WireGuard Badge](https://img.shields.io/badge/WireGuard-88171A?logo=wireguard&logoColor=fff&style=for-the-badge)
 
 # 🔢 Some stats
-![](https://komarev.com/ghpvc/?username=Ratzifutzi&style=for-the-badge)
-<br />
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=Ratzifutzi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 <div align="right">
   <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=Ratzifutzi&theme=vue-dark&hide_border=true' />
