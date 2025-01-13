@@ -38,6 +38,7 @@ I'm Joshua, I am currently studying games programming @ SAE in Zurich and I have
 ![Plesk Badge](https://img.shields.io/badge/Plesk-52BBE6?logo=plesk&logoColor=fff&style=for-the-badge)
 ![Crowdin Badge](https://img.shields.io/badge/Crowdin-2E3340?logo=crowdin&logoColor=fff&style=for-the-badge)
 ![Stripe Badge](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=fff&style=for-the-badge)
+![FreeCAD Badge](https://img.shields.io/badge/FreeCAD-729FCF?logo=freecad&logoColor=fff&style=for-the-badge)
 ![Lucide Badge](https://img.shields.io/badge/Lucide-F56565?logo=lucide&logoColor=fff&style=for-the-badge)
 ![Signal Badge](https://img.shields.io/badge/Signal-3B45FD?logo=signal&logoColor=fff&style=for-the-badge)
 ![Perplexity Badge](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff&style=for-the-badge)
