@@ -6,6 +6,10 @@ I'm Joshua, I am currently studying games programming @ SAE in Zurich and I have
 # Learning Web Design
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,tailwindcss,nextjs,vite)
 
+## Some of my projects
+- [https://github.com/Ratzifutzi/react-todo-app](Simple Todo App) that I've created to learn some react and tailwindcss
+- [https://github.com/Ratzifutzi/rackmate-dashboard](Raspberrypi Dashboard) I am currently working on for my rackmate with a touch screen
+
 # 💬 Technologies and Languages I use
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
