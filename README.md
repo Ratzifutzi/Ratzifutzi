@@ -3,6 +3,9 @@
 ## 👋 Hiya!
 I'm Joshua, I am currently studying games programming @ SAE in Zurich and I have a pretty bad coding addiction!
 
+# Learning Web Design
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,tailwindcss,nextjs,vite)
+
 # 💬 Technologies and Languages I use
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
