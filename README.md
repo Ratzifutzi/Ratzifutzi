@@ -7,7 +7,7 @@ I'm Joshua, I am currently studying games programming @ SAE in Zurich and I have
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,tailwindcss,nextjs,vite)
 
 # Live websites:
-## ProtonDB Check
+### ProtonDB Check
 [Hosted here](https://proton.hyper-tech.ch/)
 - Tool to check your SteamGames Library against ProtonDB to see their rating, and how well they will perform in Linux.
 - **NextJS, ChakraUI, Typescript, Responsive Design, Private Captcha**
