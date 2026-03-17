@@ -6,6 +6,17 @@ I'm Joshua, I am currently studying games programming @ SAE in Zurich and I have
 # Learning Web Design
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,tailwindcss,nextjs,vite)
 
+# Live websites:
+## ProtonDB Check
+[Hosted here](https://proton.hyper-tech.ch/)
+- Tool to check your SteamGames Library against ProtonDB to see their rating, and how well they will perform in Linux.
+- **NextJS, ChakraUI, Typescript, Responsive Design, Private Captcha**
+- MongoDB with mongoose, strict types and indexing
+- Anti Bot protection using PrivateCaptcha
+- Database caching to reduce stress on ProtonDB
+- Rate limits for IPs and global rate limits for unique profile calls
+- **If you want to try it out, but don't have a SteamID, use: `Ratzifutzi`.**
+
 ## Some of my projects
 - [Simple Todo App](https://github.com/Ratzifutzi/react-todo-app) that I've created to learn some react and tailwindcss
 - [Raspberrypi Dashboard](https://github.com/Ratzifutzi/rackmate-dashboard) I am currently working on for my rackmate with a touch screen
