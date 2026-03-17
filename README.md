@@ -16,7 +16,7 @@ I'm Joshua, I am currently studying games programming @ SAE in Zurich and I have
 - Rate limits for IPs and global rate limits for unique profile calls
 - **If you want to try it out, but don't have a SteamID, use: `Ratzifutzi`.**
 
-## Some of my projects
+## Some smaller other projects
 - [Simple Todo App](https://github.com/Ratzifutzi/react-todo-app) that I've created to learn some react and tailwindcss
 - [Raspberrypi Dashboard](https://github.com/Ratzifutzi/rackmate-dashboard) I am currently working on for my rackmate with a touch screen
 
